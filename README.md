@@ -1,4 +1,11 @@
-# excel-projects
-Excel Projects
+# Excel Projects
+This is my excel project, which analyzes XYZ.
 
-Excel files for cru food and wine bar woodlands tx, 2020 - 2022
+## Preprocessing the Data 
+To preprocess my data, I used **Vlookup functions**.
+
+## Charts 
+
+<img scr ="
+
+
